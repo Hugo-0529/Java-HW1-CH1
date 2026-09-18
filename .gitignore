@@ -1,0 +1,17 @@
+# Compiled class files
+*.class
+
+# Build output (Eclipse / IntelliJ)
+bin/
+out/
+target/
+.classpath
+.project
+.settings/
+.idea/
+*.iml
+
+# OS / editor cruft
+.DS_Store
+Thumbs.db
+*.log
