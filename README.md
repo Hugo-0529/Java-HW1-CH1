@@ -1,4 +1,4 @@
-# Java HW1 — Chapter 1（應用軟體實習）
+# Java HW1 — Chapter 1（應用軟體設計實習）
 
 NTUT MMS Lab《Chapter 1》講義的隨堂範例練習。每一支程式對應講義投影片中
 **同頁碼的 Sample 範例**，檔名 `HW1_Pxx` 的 `xx` 即為投影片頁碼。
